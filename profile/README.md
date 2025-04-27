@@ -1,6 +1,6 @@
 # 💼 Billestor
 
-**Smart Billing for Modern Businesses**
+![](./IMG_7352.PNG)
 
 Billestor is an all-in-one billing platform that helps digital-first businesses handle invoicing, subscriptions, one-time payments, and more — with built-in automation, real-time analytics, and developer-friendly APIs.
 
